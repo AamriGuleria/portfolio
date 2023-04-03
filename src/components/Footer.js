@@ -14,10 +14,6 @@ const Footer = () => {
             <p>Uttarakhand</p>
             </div>
             </div>
-            <div className="phone">
-            <p className="phone-icon">☎</p>
-            <h4>8279572550</h4>
-            </div>
             <div className="email">
             <p className="email-icon">📧</p>
             <h4>guleriaaamri@gmail.com</h4>
